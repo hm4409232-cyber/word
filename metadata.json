@@ -1,0 +1,6 @@
+{
+  "name": "Bilingual Sentence Generator",
+  "description": "A tool to generate sentences in English and Urdu using a provided word.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
